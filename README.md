@@ -1,1 +1,1 @@
-# (minnekraft.github.io)[https://minnekraft.github.io]
+# [minnekraft.github.io][https://minnekraft.github.io]
